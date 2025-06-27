@@ -1,0 +1,9 @@
+*{
+ padding: 0;
+ box-sizing: smooth;
+}
+
+body{
+ font-family: 'Courier New', Courier, monospace;
+ font-size: 1.6em;
+}
